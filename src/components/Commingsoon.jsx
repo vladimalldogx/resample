@@ -5,7 +5,7 @@ class Commingsoon extends Component{
         return(
            <div className={Container}>
                 <h1> This Page is Still on going</h1><span> You may Enjoy the moment that Baga.a nimog nawng. Yaw kuno ari</span>
-           <h6><i>Grace Ybanez Fantonial</i></h6>
+           <h6><i> -Grace Ybanez Fantonial Circa: 04/26/23</i></h6>
            </div>
         );
     }
